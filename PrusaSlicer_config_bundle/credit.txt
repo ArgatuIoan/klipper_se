@@ -1,0 +1,2 @@
+this orcaslicer profiles is entirely based on the prusaslicer profile made by user suchmememanyskill, and can be found here:
+https://github.com/suchmememanyskill/PrusaSlicer-Ender3-v3-SE-Config
